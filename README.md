@@ -1,5 +1,5 @@
 # Openrouteservice Java Spring Boot service
-Spring Boot service to interact with [Openrouteservice](https://openrouteservice.org/) APIs.
+Spring Boot service to interact with (amazing) [Openrouteservice](https://openrouteservice.org/) APIs version 2.
 
 ## Requirements
 - Java 11 or higher
