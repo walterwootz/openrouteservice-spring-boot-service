@@ -6,4 +6,6 @@ Spring Boot service to interact with (amazing) [Openrouteservice](https://openro
 - Spring Boot 3.0.2 or higher
 
 ## How to use it
-Include RouteService.java and RouteServiceImpl.java files in your project and add depndencies in can find in [pom.xml](./pom.xml).
+- Include depndencies you can find in [pom.xml](./pom.xml)
+- Include properties you can find in [application.properties](./src/main/resources/application.properties)
+- Include RouteService.java and RouteServiceImpl.java files in your project
